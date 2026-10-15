@@ -1,0 +1,13 @@
+{
+  "domain": "manx_utilities",
+  "name": "Manx Utilities",
+  "codeowners": ["@CaptScarlett"],
+  "config_flow": true,
+  "dependencies": ["recorder"],
+  "documentation": "https://github.com/CaptScarlett/ha-manx-utilities",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/CaptScarlett/ha-manx-utilities/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}
